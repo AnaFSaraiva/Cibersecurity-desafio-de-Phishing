@@ -1,4 +1,7 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas.
+
+Desafio feito pela DIO. em parceria do Santander Bolsas, no Bootcamp de Cibersecurity.
+
 
 ### Ferramentas
 
